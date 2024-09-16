@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.light {
+  background-color: #fff;
+  color: #000;
+}
+
+.dark {
+  background-color: #333;
+  color: #fff;
+}
